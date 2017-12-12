@@ -21,3 +21,6 @@ Git is free software.
 
 更新冲突部分
 
+增加一行
+
+最后一行
