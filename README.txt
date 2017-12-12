@@ -17,4 +17,6 @@ Git is free software.
 
 ^(*￣(oo)￣)^
 
+至此我已经学会如何创建公共远程仓库，以及创建dev分支
+
 
