@@ -1,4 +1,4 @@
-ce shi tian jia title: girls dream
+﻿ce shi tian jia title: girls dream
 其实很多时候我都会觉得，现在的生活才是一场梦。
 
 我总是会在梦里梦到，我一觉醒来，我和你还端坐在那摞满厚厚的书的课桌下，我手里拿着一张不及格的物理卷子，趴在桌子上看着那鲜红的分数哭了起来，你在一旁说：“快点起来，我给你讲错题啦，别哭了，哭有什么用啊，这又不是高考。”
@@ -34,4 +34,6 @@ ce shi tian jia title: girls dream
 
 
 test: end
+
+dev的修改
 
